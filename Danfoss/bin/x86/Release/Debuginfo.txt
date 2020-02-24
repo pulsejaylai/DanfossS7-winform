@@ -1,0 +1,335 @@
+Vbat On
+Vbat=12
+V34=0
+CRID Err :101FF21
+CRID :101FF21
+CRDATA :00 
+LED :Blue 0.844453707454207
+LED Vol :0.844453707454207
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC1
+Vbat=12
+V34=0
+CCID :4012010
+CCDATA :02 02 02 02 02 FF 02 02 
+CRID :5011020
+CRDATA :
+LED :Red 2.98780859276884
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC3
+Vbat=12
+V34=0
+CCID :4032010
+CCDATA :FF FF FF FF 00 00 00 00 
+CRID :5031020
+CRDATA :
+LED :Don't Care
+NC1 :5.01
+NO2 :5.01
+NC3 :5.01
+NO4 :5.01
+
+
+
+CC4
+Vbat=12
+V34=0
+CCID :4032010
+CCDATA :00 00 00 00 FF FF FF FF 
+CRID :5031020
+CRDATA :
+LED :Don't Care
+NC1 :5.01
+NO2 :5.01
+NC3 :5.01
+NO4 :5.01
+
+
+
+CC2
+Vbat=12
+V34=0
+CCID :4032010
+CCDATA :00 00 00 00 00 00 00 00 
+CRID Err :FFFFFFF
+CRID :FFFFFFF
+CRDATA :FF FF FF FF FF FF FF FF 
+LED :Don't Care
+NC1 :5.01
+NO2 :5.01
+NC3 :5.01
+NO4 :5.01
+
+
+
+Idle
+Vbat=12
+V34=0
+CRID Err :101FF21
+CRID :101FF21
+CRDATA :07 
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC5
+Vbat=12
+V34=0
+CCID :6042010
+CCDATA :
+CRID :7041020
+CRDATA :D2 03 CD 03 FF FF FF FF 
+LVDT :978
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC5
+Vbat=12
+V34=0
+CCID :6042010
+CCDATA :
+CRID :7041020
+CRDATA :C6 05 B4 05 FF FF FF FF 
+LVDT :1478
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC5
+Vbat=12
+V34=0
+CCID :6042010
+CCDATA :
+CRID :7041020
+CRDATA :F9 01 F8 01 FF FF FF FF 
+LVDT :505
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC6
+Vbat=12
+V34=0
+CCID :4052010
+CCDATA :88 13 64 00 88 13 FA 00 
+CRID :5051020
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC15
+Vbat=12
+V34=0
+CCID :6052010
+CCDATA :
+CRID :7051020
+CRDATA :53 00 59 00 FF FF FF FF 
+ILS1 :83
+ILS3 :89
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC7
+Vbat=12
+V34=0
+CCID :4052110
+CCDATA :10 27 10 27 10 27 10 27 
+CRID :5051021
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC12
+Vbat=12
+V34=0
+CCID :6012110
+CCDATA :
+CRID Err :7011021
+CRID :7011021
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC9
+Vbat=12
+V34=0
+CCID :60D2010
+CCDATA :
+CRID :70D1020
+CRDATA :0F 27 27 07 0F 27 27 07 
+FIN1DC :99.99
+FIN2DC :99.99
+FIN1FREQ :18.31
+FIN2FREQ :18.31
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC13
+Vbat=12
+V34=0
+CCID :4052010
+CCDATA :00 00 00 00 00 00 00 00 
+CRID :5051020
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC14
+Vbat=12
+V34=0
+CCID :4052110
+CCDATA :00 00 00 00 00 00 00 00 
+CRID :5051021
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC8
+Vbat=12
+V34=0
+CCID :4062110
+CCDATA :10 27 10 27 01 01 01 01 
+CRID :5061021
+CRDATA :
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC16
+Vbat=12
+V34=0
+CCID :6052110
+CCDATA :
+CRID :7051021
+CRDATA :54 00 52 00 31 00 00 00 
+ISH1 :49
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC10
+Vbat=12
+V34=0
+CCID :60C2010
+CCDATA :
+CRID :70C1020
+CRDATA :61 12 7A 15 74 13 AB 14 
+AD1 :4.705
+AD3 :5.498
+AD5 :4.98
+AD7 :5.291
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC11
+Vbat=12
+V34=0
+CCID :60C2110
+CCDATA :
+CRID :70C1021
+CRDATA :12 12 B4 10 00 00 30 27 
+AD2 :4.626
+AD4 :4.276
+AD6 :0
+AD8 :10.032
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+
+CC12
+Vbat=12
+V34=0
+CCID :6012110
+CCDATA :
+CRID :7011021
+CRDATA :00 01 01 01 0C 27 FF FF 
+KEYVOL :9.996
+LED :Don't Care
+NC1 :Don't Care
+NO2 :Don't Care
+NC3 :Don't Care
+NO4 :Don't Care
+
+
+

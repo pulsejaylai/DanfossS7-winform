@@ -1,0 +1,10 @@
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Debug\Danfoss.exe.config
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Debug\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Debug\Danfoss.pdb
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.csprojAssemblyReference.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.Form1.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.Properties.Resources.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.csproj.GenerateResource.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.csproj.CoreCompileInputs.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Debug\Danfoss.pdb

@@ -1,0 +1,9 @@
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Release\Danfoss.exe.config
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Release\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\Release\Danfoss.pdb
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.Form1.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.Properties.Resources.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.csproj.GenerateResource.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.csproj.CoreCompileInputs.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\Release\Danfoss.pdb

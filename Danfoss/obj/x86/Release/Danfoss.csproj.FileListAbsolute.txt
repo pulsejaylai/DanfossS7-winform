@@ -1,0 +1,14 @@
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\x86\Release\Danfoss.exe.config
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\x86\Release\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\bin\x86\Release\Danfoss.pdb
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.Form1.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.Properties.Resources.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.csproj.GenerateResource.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.csproj.CoreCompileInputs.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.exe
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.pdb
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.Equip.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.SampleSN.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.SN.resources
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.csprojAssemblyReference.cache
+D:\jaylai\c#DanfosS7\Danfoss\Danfoss\obj\x86\Release\Danfoss.Password.resources
